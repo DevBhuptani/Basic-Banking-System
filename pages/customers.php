@@ -2,7 +2,7 @@
 <html lang="en">
     <head>
         <meta charset="UTF-8" />
-        <title>Primo</title>
+        <title>Amazon</title>
         <link rel="shortcut icon" href="../images/bank.png" type="image/x-icon">
 
         <!-- BootStrap -->
@@ -40,7 +40,7 @@
             
             <!-- Navbar -->
             <nav class="navbar fixed-top navbar-expand-lg">
-                <a class="navbar-brand" href="#">Primo</a>
+                <a class="navbar-brand" href="#">Amazon</a>
                 <button
                     class="navbar-toggler custom-toggler"
                     type="button"

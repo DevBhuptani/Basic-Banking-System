@@ -2,7 +2,7 @@
 <html lang="en">
     <head>
         <meta charset="UTF-8" />
-        <title>Primo</title>
+        <title>Amazon</title>
         <link rel="shortcut icon" href="./images/bank.png" type="image/x-icon">
         <!-- BootStrap -->
         <link
@@ -62,7 +62,7 @@
 
             <!-- Navbar -->
             <nav class="navbar fixed-top navbar-expand-lg">
-                <a class="navbar-brand" href="#">Primo</a>
+                <a class="navbar-brand" href="#">Amazon</a>
                 <button
                     class="navbar-toggler custom-toggler"
                     type="button"
@@ -102,7 +102,7 @@
                         </div>
                         <div class="col-lg-6">
                             <h1 class="bank-name">
-                                Welcome to<br />Primo Bank Inc.
+                                Welcome to<br />Amazon Bank Inc.
                             </h1>
                             <p class="heading-para">
                                 An easy and simple way to transfer money in one
@@ -131,7 +131,7 @@
                                                         <input type="text" class="form-control" placeholder="First name" name="name"/>
                                                     </div>
                                                 </div>
-                                                <input type="text" class="form-control" placeholder="e-mail" name="email"/>
+                                                <input type="text" class="form-control" placeholder="E-mail" name="email"/>
                                                 <div class="row">
                                                     <div class="col">
                                                         <input type="text" class="form-control" placeholder="City" name="city"/>
