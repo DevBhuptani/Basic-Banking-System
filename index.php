@@ -131,7 +131,7 @@
                                                         <input type="text" class="form-control" placeholder="First name" name="name"/>
                                                     </div>
                                                 </div>
-                                                <input type="text" class="form-control" placeholder="e-mail" name="email"/>
+                                                <input type="text" class="form-control" placeholder="E-mail" name="email"/>
                                                 <div class="row">
                                                     <div class="col">
                                                         <input type="text" class="form-control" placeholder="City" name="city"/>
@@ -197,7 +197,7 @@
         <footer class="center">
             <h4>Dev Bhuptani © 2022</h4>
             <div>
-                <a class="account" href="https://github.com/DevBhuptani" target="_blank">
+                <a class="account" href="https://github.com/DevBhuptani/" target="_blank">
                     <i class="fab fa-github fa-2x acct"></i>
                 </a>
                 <a class="account" href="https://www.linkedin.com/in/dev-bhuptani-04b7301a2/" target="_blank" >
