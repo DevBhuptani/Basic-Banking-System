@@ -206,7 +206,7 @@
                 <a class="account" href="https://www.instagram.com/dev__bhuptani/" target="_blank">
                     <i class="fab fa-instagram fa-2x acct"></i>
                 </a>
-                <a class="account" href="mailto:devbhuptani20@gmail.co" target="_blank">
+                <a class="account" href="mailto:devbhuptani20@gmail.com" target="_blank">
                     <i class="fas fa-envelope fa-2x acct"></i>
                 </a>
                 <a class="account" href="https://api.whatsapp.com/send?phone=+918469797922" target="_blank">
