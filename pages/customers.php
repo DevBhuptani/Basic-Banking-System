@@ -2,7 +2,7 @@
 <html lang="en">
     <head>
         <meta charset="UTF-8" />
-        <title>Primo</title>
+        <title>Amazon</title>
         <link rel="shortcut icon" href="../images/bank.png" type="image/x-icon">
 
         <!-- BootStrap -->
@@ -40,7 +40,7 @@
             
             <!-- Navbar -->
             <nav class="navbar fixed-top navbar-expand-lg">
-                <a class="navbar-brand" href="#">Primo</a>
+                <a class="navbar-brand" href="#">Amazon</a>
                 <button
                     class="navbar-toggler custom-toggler"
                     type="button"
@@ -119,21 +119,21 @@
         </div>
         <!-- Footer -->
         <footer class="center">
-            <h4>Veera04 © 2022</h4>
+            <h4>Dev Bhuptani © 2022</h4>
             <div>
-                <a class="account" href="https://github.com/veera-04/" target="_blank">
+                <a class="account" href="https://github.com/DevBhuptani" target="_blank">
                     <i class="fab fa-github fa-2x acct"></i>
                 </a>
-                <a class="account" href="https://www.linkedin.com/in/veeramanikandan-s/" target="_blank" >
+                <a class="account" href="https://www.linkedin.com/in/dev-bhuptani-04b7301a2/" target="_blank" >
                     <i class="fab fa-linkedin-in fa-2x acct"></i>
                 </a>
-                <a class="account" href="https://www.instagram.com/vmk_4721/" target="_blank">
+                <a class="account" href="https://www.instagram.com/dev__bhuptani/" target="_blank">
                     <i class="fab fa-instagram fa-2x acct"></i>
                 </a>
-                <a class="account" href="mailto:veera4721@gmail.com" target="_blank">
+                <a class="account" href="mailto:devbhuptani20@gmail.com" target="_blank">
                     <i class="fas fa-envelope fa-2x acct"></i>
                 </a>
-                <a class="account" href="https://api.whatsapp.com/send?phone=+917708078386" target="_blank">
+                <a class="account" href="https://api.whatsapp.com/send?phone=+918469797922" target="_blank">
                     <i class="fab fa-whatsapp fa-2x acct"></i>
                 </a>
             </div>
