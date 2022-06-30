@@ -94,7 +94,7 @@
                                             <td><?php echo $row['sender'] ?></td>
                                             <td><?php echo $row['receiver'] ?></td>
                                             <td><?php echo $row['amount'] ?></td>
-                                            <td><?php echo $row['time'] ?></td>
+                                            <td><?php echo $row['   '] ?></td>
                                         </tr>
                                     <?php } 
                                 } 
